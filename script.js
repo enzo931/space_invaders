@@ -48,7 +48,7 @@ const invaderColumns = 8;
 const invaderWidth = 50;
 const invaderHeight = 40;
 let invaderDirection = 1;
-let invaderSpeed = 5;
+let invaderSpeed = 3;
 
 // 🔹 Criar Invasores
 function createInvaders() {
